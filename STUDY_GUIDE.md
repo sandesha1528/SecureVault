@@ -1,5 +1,5 @@
 # 📚 SecureVault — Complete Study Guide
-### By Rohit Patil | Understand everything from scratch
+### By Sandesha Wakchaure | Understand everything from scratch
 
 ---
 
@@ -406,4 +406,4 @@ graph TD
 
 ---
 
-*SecureVault — Built by Rohit Patil*
+*SecureVault — Built by Sandesha Wakchaure*
