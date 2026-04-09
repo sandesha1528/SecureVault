@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/6D28D9/FFFFFF?text=SV" alt="SecureVault Logo" width="120" height="120" style="border-radius: 20px; margin-bottom: 20px;">
   
   # SecureVault 🛡️
   **Created by Sandesha Wakchaure**
